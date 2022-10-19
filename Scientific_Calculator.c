@@ -15,7 +15,7 @@
 
 //Memory index
 int i=0;
-print("hello")
+//print("hello")
 //Storing each operation
 struct store
 {
